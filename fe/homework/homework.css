@@ -12,13 +12,14 @@ color: blue;
 font-size: 30px;
 }
 #list {
-text-align: center; /* 텍스트 및 인라인 요소들을 가로 정가운데로 정렬 */
+justify-content: center;
 display: flex;
 color: orange;
 font-size: 30px;
 }
 #list2 {
 display: flex;
+justify-content: center;
 color: red;   
 font-size: 30px;
 }
@@ -31,6 +32,7 @@ font-size: 20px;
         }
 li {
         display: flex;
+        justify-content: center;
         color: green;
         font-size: 20px;
         }
@@ -49,5 +51,8 @@ border: 1px solid #ddd;
 padding: 20px;
 }
 .middle_list {
+text-align: center; /* 텍스트 및 인라인 요소들을 가로 정가운데로 정렬 */
+}
+h3 {
 text-align: center; /* 텍스트 및 인라인 요소들을 가로 정가운데로 정렬 */
 }
