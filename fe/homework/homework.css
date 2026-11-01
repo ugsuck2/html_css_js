@@ -56,3 +56,8 @@ text-align: center; /* 텍스트 및 인라인 요소들을 가로 정가운데�
 h3 {
 text-align: center; /* 텍스트 및 인라인 요소들을 가로 정가운데로 정렬 */
 }
+a:link{ color: purple; }     
+a:visited{ color: goldenrod; }
+
+a:hover{ color: aqua
+; }
