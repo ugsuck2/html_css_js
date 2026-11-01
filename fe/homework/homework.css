@@ -61,3 +61,5 @@ a:visited{ color: goldenrod; }
 
 a:hover{ color: aqua
 ; }
+
+a:active{ color: rgba(89, 0, 255, 0.388); }
