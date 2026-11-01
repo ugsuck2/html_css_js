@@ -54,6 +54,7 @@ padding: 20px;
 text-align: center; /* 텍스트 및 인라인 요소들을 가로 정가운데로 정렬 */
 }
 h3 {
+color: cadetblue;
 text-align: center; /* 텍스트 및 인라인 요소들을 가로 정가운데로 정렬 */
 }
 a:link{ color: purple; }     
